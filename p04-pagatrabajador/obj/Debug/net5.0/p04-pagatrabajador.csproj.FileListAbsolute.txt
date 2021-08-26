@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\bin\Debug\net5.0\ref\p04-pagatrabajador.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\bin\Debug\net5.0\p04-pagatrabajador.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\ref\p04-pagatrabajador.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p04-pagatrabajador\obj\Debug\net5.0\p04-pagatrabajador.genruntimeconfig.cache
