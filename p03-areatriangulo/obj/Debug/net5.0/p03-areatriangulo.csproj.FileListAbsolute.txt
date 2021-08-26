@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\bin\Debug\net5.0\ref\p03-areatriangulo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\ref\p03-areatriangulo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.genruntimeconfig.cache
