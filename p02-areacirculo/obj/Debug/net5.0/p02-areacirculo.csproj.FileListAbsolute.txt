@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\bin\Debug\net5.0\ref\p02-areacirculo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\bin\Debug\net5.0\p02-areacirculo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\ref\p02-areacirculo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p02-areacirculo\obj\Debug\net5.0\p02-areacirculo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\bin\Debug\net5.0\p01-holamundo.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\bin\Debug\net5.0\p01-holamundo.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\bin\Debug\net5.0\p01-holamundo.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\bin\Debug\net5.0\p01-holamundo.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\bin\Debug\net5.0\p01-holamundo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\bin\Debug\net5.0\ref\p01-holamundo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\bin\Debug\net5.0\p01-holamundo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\ref\p01-holamundo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p01-holamundo\obj\Debug\net5.0\p01-holamundo.genruntimeconfig.cache
