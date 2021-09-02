@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\bin\Debug\net5.0\p06-pizza.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\bin\Debug\net5.0\p06-pizza.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\bin\Debug\net5.0\p06-pizza.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\bin\Debug\net5.0\ref\p06-pizza.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\bin\Debug\net5.0\p06-pizza.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\ref\p06-pizza.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p06-pizza\obj\Debug\net5.0\p06-pizza.genruntimeconfig.cache
