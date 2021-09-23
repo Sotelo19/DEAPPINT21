@@ -7,3 +7,5 @@ Ernesto Garcia Sotelo
 2. Area circulo
 3. Area triangulo
 4. Paga trabajador
+5. Ciclos
+6. Pizza
