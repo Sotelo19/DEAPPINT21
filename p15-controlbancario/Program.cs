@@ -6,15 +6,15 @@ namespace p15_controlbancario
     {
         static void Main(string[] args)
         {
-            Banco mibanco= new Banco ("Banco del norte SA de CV","privada las cumbres 18");
+            Banco mibanco= new Banco ("Banco del norte SA de CV","privada las cumbres 117");
             CuentaBancaria cta1 = new CuentaBancaria();
             CuentaBancaria cta2 = new CuentaBancaria(100);
             CuentaBancaria cta3;
             cta3 = new CuentaBancaria(500);
 
-            Cliente cte1 =new Cliente("Carlos Hector","Antonio Escareño");
-            Cliente cte2 =new Cliente("juan","perez");
-            Cliente cte3 =new Cliente("pedro","perez");
+            Cliente cte1 =new Cliente("Ernesto Sotelo");
+            Cliente cte2 =new Cliente("fernando","sanchez");
+            Cliente cte3 =new Cliente("luis","lopez");
 
             mibanco.AgregarCliente(cte1);
             mibanco.AgregarCliente(cte2);
