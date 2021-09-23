@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace p09_vectorAleatorio
+namespace p09_VectorAleatorio
 {
     class Program
     {
@@ -29,7 +29,7 @@ namespace p09_vectorAleatorio
                     Console.Write($"{v[i]} ");
                 }
                Console.WriteLine();   
-                
+            }    
         }
     }
 }

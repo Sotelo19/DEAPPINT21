@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\bin\Debug\net5.0\p10-VectorCubo.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\bin\Debug\net5.0\p10-VectorCubo.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\bin\Debug\net5.0\p10-VectorCubo.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\bin\Debug\net5.0\p10-VectorCubo.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\bin\Debug\net5.0\p10-VectorCubo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\bin\Debug\net5.0\ref\p10-VectorCubo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\bin\Debug\net5.0\p10-VectorCubo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\ref\p10-VectorCubo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p10-VectorCubo\obj\Debug\net5.0\p10-VectorCubo.genruntimeconfig.cache

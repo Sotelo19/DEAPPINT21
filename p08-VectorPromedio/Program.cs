@@ -1,5 +1,5 @@
 ﻿using System;
-namespace p08_vectorPromedio
+namespace p08_VectorPromedio
 {
     class Program
     {

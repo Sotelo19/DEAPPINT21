@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\bin\Debug\net5.0\p14-Estadisticas.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\bin\Debug\net5.0\p14-Estadisticas.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\bin\Debug\net5.0\p14-Estadisticas.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\bin\Debug\net5.0\p14-Estadisticas.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\bin\Debug\net5.0\p14-Estadisticas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\bin\Debug\net5.0\ref\p14-Estadisticas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\bin\Debug\net5.0\p14-Estadisticas.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\ref\p14-Estadisticas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p14-Estadisticas\obj\Debug\net5.0\p14-Estadisticas.genruntimeconfig.cache

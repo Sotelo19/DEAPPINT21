@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\bin\Debug\net5.0\p11-VectorSumas.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\bin\Debug\net5.0\p11-VectorSumas.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\bin\Debug\net5.0\p11-VectorSumas.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\bin\Debug\net5.0\p11-VectorSumas.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\bin\Debug\net5.0\p11-VectorSumas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\bin\Debug\net5.0\ref\p11-VectorSumas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\bin\Debug\net5.0\p11-VectorSumas.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\ref\p11-VectorSumas.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p11-VectorSumas\obj\Debug\net5.0\p11-VectorSumas.genruntimeconfig.cache

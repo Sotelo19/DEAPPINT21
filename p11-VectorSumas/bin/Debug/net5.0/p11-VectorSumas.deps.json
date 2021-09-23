@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "p11-VectorSumas/1.0.0": {
+        "runtime": {
+          "p11-VectorSumas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p11-VectorSumas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

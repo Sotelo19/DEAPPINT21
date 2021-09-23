@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\bin\Debug\net5.0\p12-VectorInverso.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\bin\Debug\net5.0\p12-VectorInverso.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\bin\Debug\net5.0\p12-VectorInverso.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\bin\Debug\net5.0\p12-VectorInverso.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\bin\Debug\net5.0\p12-VectorInverso.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\bin\Debug\net5.0\ref\p12-VectorInverso.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\bin\Debug\net5.0\p12-VectorInverso.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\ref\p12-VectorInverso.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p12-VectorInverso\obj\Debug\net5.0\p12-VectorInverso.genruntimeconfig.cache

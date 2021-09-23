@@ -1,0 +1,16 @@
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\bin\Debug\net5.0\p09-VectorAleatorio.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\bin\Debug\net5.0\p09-VectorAleatorio.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\bin\Debug\net5.0\p09-VectorAleatorio.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\bin\Debug\net5.0\p09-VectorAleatorio.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\bin\Debug\net5.0\p09-VectorAleatorio.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\bin\Debug\net5.0\ref\p09-VectorAleatorio.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\bin\Debug\net5.0\p09-VectorAleatorio.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\ref\p09-VectorAleatorio.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\p09-VectorAleatorio\obj\Debug\net5.0\p09-VectorAleatorio.genruntimeconfig.cache
