@@ -19,7 +19,7 @@ namespace p15_controlbancario
             mibanco.AgregarCliente(cte1);
             mibanco.AgregarCliente(cte2);
             mibanco.AgregarCliente(cte3);
-            mibanco.AgregarCliente(new Cliente("Maria","jimenez"));
+            mibanco.AgregarCliente(new Cliente("luisa","susa"));
 
             mibanco.clientes[3].cuenta = cta2;
 
