@@ -38,7 +38,7 @@ namespace p15_controlbancario
             bool retiro = cta1.retira(15);
             cte3.cuenta.retira(3000);
 
-            if (!retiro) Console.WriteLine("negativo");
+            if (!retiro) Console.WriteLine("retiro negativo");
             else Console.WriteLine("retiro exitoso");
         
             cta3.retira(120);
