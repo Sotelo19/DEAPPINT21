@@ -1,0 +1,12 @@
+
+{"Nombre":"Universidad Patito SA de CV",
+    "Encargado":"Ing. Juan Perez",
+    "domicilio":"Av. De la Juventud 348",
+    
+
+
+
+    "nodos":[{"nombrea":"toño","materia":"español","grupo":"1A","salario":10000,"so":"linux","vulnerabilidades":[{"fecha":"2016-04-14T00:00:00","Antiguedad":6},{"fecha":"2011-01-10T00:00:00","Antiguedad":10}]},
+    {"nombrep":"juan","materia":"historia","grupo":"2B","salario":1200,"so":"ios","vulnerabilidades":[{"fecha":"2017-02-21T00:00:00","Antiguedad":4}]},
+    {"nombrep":"sotelo","materia":"geografia","grupo":"3C","salario":5000,"so":"windows","vulnerabilidades":[{"fecha":"2019-11-13T00:00:00","Antiguedad":12},{"fecha":"2016-12-20T00:00:00","Antiguedad":5},{"fecha":"2017-02-15T00:00:00","Antiguedad":4}]},
+    {"nombrep":"maria","materia":"español","grupo":"1A","salario":2200,"so":"linux","vulnerabilidades":[]}],"MayorSalario":10000,"MenorSalario":5000,"TotVuln":6}

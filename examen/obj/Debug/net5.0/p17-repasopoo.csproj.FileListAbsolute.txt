@@ -1,0 +1,50 @@
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/bin/Debug/net5.0/p17-repasopoo.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/bin/Debug/net5.0/p17-repasopoo.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/bin/Debug/net5.0/p17-repasopoo.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/bin/Debug/net5.0/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/bin/Debug/net5.0/ref/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/bin/Debug/net5.0/p17-repasopoo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/ref/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p17-repasopoo/obj/Debug/net5.0/p17-repasopoo.genruntimeconfig.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.csproj.AssemblyReference.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.AssemblyInfo.cs
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/ref/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.deps.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.runtimeconfig.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.runtimeconfig.dev.json
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/ref/p17-repasopoo.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.pdb
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.genruntimeconfig.cache
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.csproj.CopyComplete
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\p17-repasopoo.exe
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\p17-repasopoo.deps.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\p17-repasopoo.runtimeconfig.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\p17-repasopoo.runtimeconfig.dev.json
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\p17-repasopoo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\ref\p17-repasopoo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\p17-repasopoo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.csproj.AssemblyReference.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.AssemblyInfoInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.AssemblyInfo.cs
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.csproj.CoreCompileInputs.cache
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.csproj.CopyComplete
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\ref\p17-repasopoo.dll
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.pdb
+C:\Users\Ernesto\Desktop\Desarrollo\Programas\examen\obj\Debug\net5.0\p17-repasopoo.genruntimeconfig.cache
