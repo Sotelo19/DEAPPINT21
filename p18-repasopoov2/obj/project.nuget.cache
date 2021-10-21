@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wkIE79MmGVD3uMmqrDneZCVG2Kk2DrdZLIeMqfTThIRFbAp9/kfwOB4ba/bbrQZVzSB006eghGrRBYtFHWcGA==",
+  "success": true,
+  "projectFilePath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/p17-repasopoo.csproj",
+  "expectedPackageFiles": [
+    "/Users/castr/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
