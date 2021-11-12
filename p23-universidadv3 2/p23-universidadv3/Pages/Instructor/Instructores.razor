@@ -1,0 +1,68 @@
+@page "/Instructores"
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioInstructores serv
+
+<h3>Informacion de Instructores</h3>
+
+<NavLink class="nav-link" href="AgregarInstructores">
+    <span class="oi oi-plus">Agregar Nuevo</span>
+</NavLink>
+
+@if(obj is null) {
+    <p>Cargando ...</p>
+} else {
+    <table class="table">
+        <thead>
+            <th>Id</th>
+            <th>Apeido Paterno</th>
+            <th>Apeido Materno</th>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Fecha Ingreso</th>
+            <th>Ubicacion</th>
+            <th>Cursos Asignados</th>
+        </thead>
+    
+    <tbody>
+        @foreach (var i in obj)
+        {
+            <tr>
+                <td>@i.Id</td>
+                <td>@i.Apaterno</td>
+                <td>@i.Amaterno</td>
+                <td>@i.Nombre</td>
+                <td>@i.Email</td>
+                <td>@i.FechaContratacion.ToString("yyy-MMM-dd")</td>
+                <td>@(i.OficinaAsignada==null?"-sin oficina-":i.OficinaAsignada.Ubicacion)</td> 
+                @if(i.AsignacionCursos.Count==0) {
+                    <td>-sin asignacion-</td> 
+                } else {
+                    <td>
+                        @foreach(var a in i.AsignacionCursos) {
+                            @a.Curso.CursoId @:- @a.Curso.Titulo <br />
+                        }
+                    </td>
+                }
+                <td>
+                    <a class="nav-link" href="EditarInstructores/@i.Id">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                     <a class="nav-link" href="ElimnarInstructores/@i.Id">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    </table>
+}
+
+@code {
+    List<Instructor> obj;
+ 
+    protected override void OnInitialized() {
+        obj = serv.ObtenerTodo();
+
+    }
+}

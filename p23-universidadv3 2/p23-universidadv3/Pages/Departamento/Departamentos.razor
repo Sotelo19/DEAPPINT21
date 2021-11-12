@@ -1,0 +1,54 @@
+@page "/Departamentos"
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioDepartamentos serv
+
+<h3>Informacion de Departamentos</h3>
+
+<NavLink class="nav-link" href="AgregarDepartamentos">
+    <span class="oi oi-plus">Agregar Nuevo</span>
+</NavLink>
+
+@if(obj is null) {
+    <p>Cargando ...</p>
+} else {
+    <table class="table">
+        <thead>
+            <th>Depatamento Id</th>
+            <th>Nombre</th>
+            <th>Presupuesto</th>
+            <th>Fecha de Inicio</th>
+            <th>Instructor</th>
+        </thead>
+    
+    <tbody>
+        @foreach (var i in obj)
+        {
+            <tr>
+                <td>@i.DepartamentoId</td>
+                <td>@i.Nombre</td>
+                <td>@i.Presupuesto</td>
+                <td>@i.FechaDeInicio.ToString("yyy-MMM-dd")</td>
+                <td>@i.Instructor.NombreCompleto</td>
+                <td>
+                    <a class="nav-link" href="EditarDepartamentos/@i.DepartamentoId">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                     <a class="nav-link" href="EliminarDepartamentos/@i.DepartamentoId">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        } 
+    </tbody>
+    </table>
+}
+
+@code {
+    List<Departamento> obj;
+ 
+    protected override void OnInitialized() {
+        obj = serv.ObtenerTodo();
+
+    }
+}
