@@ -1,0 +1,63 @@
+
+@page "/EditarInscripciones/{Id:int}"
+@inject NavigationManager NavigationManager
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioInscripciones serv;
+@inject ServicioEstudiantes sins;
+@inject ServicioCursos sins1;
+
+<h3>Editar Inscripcion</h3> 
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@ActualizarInscripcion">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+            <div class="form-group">
+                <label for="EstudianteId" class="control-label">Estudiante </label>
+                <InputSelect id="EstudianteId" class="form-control" @bind-Value="obj.EstudianteId">
+
+                    @foreach (var i in @objins )
+                    {
+                        <option value="@i.Id">@i.NombreCompleto</option>
+                    }
+                </InputSelect>
+            </div>
+                <label for="CursoId" class="control-label">Curso </label>
+                <InputSelect id="CursoId" class="form-control" @bind-Value="obj.CursoId">
+                    @foreach (var i in @objins1 )
+                    {
+                        <option value="@i.CursoId">@i.Titulo</option>
+                    }
+                </InputSelect>
+            </div>
+            <div class="form-group">
+                <label for="Promedio" class="control-label">Promedio</label>
+                <InputNumber id="Promedio" class="form-control" @bind-Value="obj.Promedio"/>
+            </div>
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+ 
+@code {
+    [Parameter] public int Id {get;set;}
+    Inscripcion obj = new Inscripcion();
+    List<Estudiante> objins ;
+    List<Curso> objins1;
+    protected void ActualizarInscripcion() {
+        serv.Actualizar(obj);
+        NavigationManager.NavigateTo("Inscripciones");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Inscripciones");
+    }
+      protected override void OnInitialized() {
+        obj = serv.Obtener(Id);
+         objins = sins.ObtenerTodo("");
+         objins1 = sins1.ObtenerTodo("");
+    }
+}

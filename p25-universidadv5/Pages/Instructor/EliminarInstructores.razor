@@ -1,0 +1,56 @@
+@page "/EliminarInstructores/{Id}"
+@inject NavigationManager NavigationManager
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioInstructores serv;
+
+<h3>Agregar Instructor</h3> 
+<hr>
+<h3>Estas seguro que desas Eliminar? </h3>
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" >
+        <fieldset diasbled="true">
+            <div class="form-group">
+                <label for="Apaterno" class="control-label">Apeido Paterno</label>
+                <InputText id="Apaterno" class="form-control" @bind-Value="obj.Apaterno"/>
+            </div>
+            <div class="form-group">
+                <label for="Amaterno" class="control-label">Apeido Materno</label>
+                <InputText id="Amaterno" class="form-control" @bind-Value="obj.Amaterno"/>
+            </div>
+            <div class="form-group">
+                <label for="Nombre" class="control-label">Nombre</label>
+                <InputText id="Nombre" class="form-control" @bind-Value="obj.Nombre"/>
+            </div>
+            <div class="form-group">
+                <label for="Email" class="control-label">Email</label>
+                <InputText id="Email" class="form-control" @bind-Value="obj.Email"/>
+            </div>
+            <div class="form-group">
+                <label for="FechaContratacion" class="control-label">Fecha de Ingreso</label>
+                <InputDate id="FechaContratacion" class="form-control" @bind-Value="obj.FechaContratacion"  />
+            </div>
+        </fieldset>
+            <button type="submit" class="btn btn-primary" @onclick="@EliminarInstructor">Eliminar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+ 
+@code {
+    [Parameter]
+     public string Id {get; set;}
+    Instructor obj = new Instructor();
+    protected override void OnInitialized() {
+        obj = serv.Obtener(int.Parse(Id));
+    }
+    protected void EliminarInstructor() {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("Instructores");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Instructores");
+    }
+}

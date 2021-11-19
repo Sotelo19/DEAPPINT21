@@ -1,0 +1,60 @@
+@page "/Cursos"
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioCursos serv
+
+<h3>Informacion de Cursos</h3>
+
+<NavLink class="nav-link" href="AgregarCursos">
+    <span class="oi oi-plus">Agregar Nuevo</span>
+</NavLink>
+
+<label>Buscar por Titulo:</label>
+<input type="text" @oninput="@( (e) => Filtro(e) )">
+
+
+@if(obj is null) {
+    <p>Cargando ...</p>
+} else {
+    <table class="table">
+        <thead>
+            <th>Curso Id</th>
+            <th>Titulo</th>
+            <th>Creditos</th>
+            <th>Departamento</th>
+        </thead>
+    
+    <tbody>
+        @foreach (var i in obj)
+        {
+            <tr>
+                <td>@i.CursoId</td>
+                <td>@i.Titulo</td>
+                <td>@i.Creditos</td>
+                <td>@i.Departamento.Nombre</td>
+                <td>
+                    <a class="nav-link" href="EditarCursos/@i.CursoId">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                     <a class="nav-link" href="EliminarCursos/@i.CursoId">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    </table>
+}
+
+@code {
+    List<Curso> obj;
+ 
+    protected override void OnInitialized() {
+        obj = serv.ObtenerTodo("");
+    }
+
+    protected void Filtro(ChangeEventArgs e) {
+        string cadenabuscar = e.Value.ToString();
+        obj = serv.ObtenerTodo(cadenabuscar);
+    }
+}

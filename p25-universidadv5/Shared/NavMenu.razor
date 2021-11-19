@@ -1,0 +1,63 @@
+﻿<div class="top-row pl-4 navbar navbar-dark">
+    <a class="navbar-brand" href="">p21-universidadv1</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Estudiantes">
+                <span class="oi oi-plus" aria-hidden="true"></span> Estudiantes
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Instructores">
+                <span class="oi oi-plus" aria-hidden="true"></span> Instructores
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Cursos">
+                <span class="oi oi-plus" aria-hidden="true"></span> Cursos
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Departamentos">
+                <span class="oi oi-plus" aria-hidden="true"></span> Departamentos
+            </NavLink>
+        </li>
+                <li class="nav-item px-3">
+            <NavLink class="nav-link" href="OficinaAsignadas">
+                <span class="oi oi-plus" aria-hidden="true"></span> Asignar Oficina
+            </NavLink>
+        </li>
+                <li class="nav-item px-3">
+            <NavLink class="nav-link" href="AsignacionCursos">
+                <span class="oi oi-plus" aria-hidden="true"></span> Asignar Cursos
+            </NavLink>
+        </li>
+                <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Inscripciones">
+                <span class="oi oi-plus" aria-hidden="true"></span> Inscripciones
+            </NavLink>
+        </li>
+        
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

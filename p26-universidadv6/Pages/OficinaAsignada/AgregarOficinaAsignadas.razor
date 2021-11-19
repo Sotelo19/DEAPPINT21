@@ -1,0 +1,50 @@
+@page "/AgregarOficinaAsignadas"
+@inject NavigationManager NavigationManager
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioOficinaAsignadas serv;
+@inject ServicioInstructores sins;
+
+<h3>Asignar Oficina</h3> 
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@CrearOficinaAsignada">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+                <label for="InstructorId" class="control-label">Instructor </label>
+                <InputSelect id="InstructorId" class="form-control" @bind-Value="obj.InstructorId">
+                    <option value="@(0)" disabled >-Elije un Instructor-</option> 
+                    @foreach (var i in @objins )
+                    {
+                        <option value="@i.Id">@i.NombreCompleto</option>
+                    }
+                </InputSelect>
+            </div>
+
+               <div class="form-group">
+                <label for="Ubicacion" class="control-label">Ubicacion</label>
+                <InputText id="Ubicacion" class="form-control" @bind-Value="obj.Ubicacion"/>
+            </div>
+            
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+ 
+@code {
+    OficinaAsignada obj = new OficinaAsignada();
+    List<Instructor> objins;
+    protected void CrearOficinaAsignada() {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("OficinaAsignadas");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("OficinaAsignadas");
+    }
+    protected override void OnInitialized() {
+         objins = sins.ObtenerTodo("");
+    }
+}

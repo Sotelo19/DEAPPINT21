@@ -1,0 +1,59 @@
+@page "/AgregarAsignacionCursos"
+@inject NavigationManager NavigationManager
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioAsignacionCursos serv;
+@inject ServicioInstructores sins;
+@inject ServicioCursos sins1;
+
+<h3>Asignar Curso a Instructor</h3> 
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@CrearAsignacionCurso">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+                <label for="InstructorId" class="control-label">Instructor </label>
+                <InputSelect id="InstructorId" class="form-control" @bind-Value="obj.InstructorId">
+                    <option value="@(0)" disabled >-Elije un Instructor-</option> 
+                    @foreach (var i in @objins )
+                    {
+                        <option value="@i.Id">@i.NombreCompleto</option>
+                    }
+                </InputSelect>
+            </div>
+            <div class="form-group">
+                <label for="CursoId" class="control-label">Cruso </label>
+                <InputSelect id="CursoId" class="form-control" @bind-Value="obj.CursoId">
+                    <option value="@(0)" disabled >-Elije un Curso-</option> 
+                    @foreach (var i in @objins1 )
+                    {
+                        <option value="@i.CursoId">@i.Titulo</option>
+                    }
+                </InputSelect>
+            </div>
+         
+            
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+ 
+@code {
+    AsignacionCurso obj = new AsignacionCurso();
+    List<Instructor> objins;
+    List<Curso> objins1;
+    protected void CrearAsignacionCurso() {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("AsignacionCursos");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("AsignacionCursos");
+    }
+    protected override void OnInitialized() {
+         objins = sins.ObtenerTodo("");
+         objins1 = sins1.ObtenerTodo("");
+    }
+}

@@ -1,0 +1,59 @@
+@page "/AgregarDepartamentos"
+@inject NavigationManager NavigationManager
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioDepartamentos serv;
+@inject ServicioInstructores sins;
+
+<h3>Agregar Departamento</h3> 
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@CrearDepartamento">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+                <label for="Nombre" class="control-label">Nombre</label>
+                <InputText id="Nombre" class="form-control" @bind-Value="obj.Nombre"/>
+            </div>
+             <div class="form-group">
+                <label for="Presupuesto" class="control-label">Presupuesto</label>
+                <InputNumber id="Presupuesto" class="form-control" @bind-Value="obj.Presupuesto"/>
+            </div>
+             <div class="form-group">
+                <label for="FechaDeInicio" class="control-label">Fecha de Inicio</label>
+                <InputDate id="FechaDeInicio" class="form-control" @bind-Value="obj.FechaDeInicio"  />
+            </div>
+            <div class="form-group">
+                <label for="InstructorId" class="control-label">Instructor </label>
+                <InputSelect id="DepartamentoId" class="form-control" @bind-Value="obj.InstructorId">
+                    <option value="null">-sin asignar-</option> 
+                    @foreach (var i in @objins )
+                    {
+                        <option value="@i.Id">@i.NombreCompleto</option>
+                    }
+
+                </InputSelect>
+            </div>
+            
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+ 
+@code {
+    Departamento obj = new Departamento();
+    List<Instructor> objins;
+    protected void CrearDepartamento() {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("Departamentos");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Departamentos");
+    }
+    protected override void OnInitialized() {
+         objins = sins.ObtenerTodo("");
+         obj.FechaDeInicio = DateTime.Today;
+    }
+}

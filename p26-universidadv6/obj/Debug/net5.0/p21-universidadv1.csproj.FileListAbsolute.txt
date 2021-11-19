@@ -1,0 +1,897 @@
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/appsettings.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.StaticWebAssets.xml
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.deps.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.dev.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/ref/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.Views.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/p21-universidadv1.Views.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.RazorComponent.input.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.RazorComponent.output.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/RazorDeclaration/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.TagHelpers.input.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.TagHelpers.output.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.RazorCoreGenerate.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.Manifest.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.xml
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/scopedcss/bundle/p21-universidadv1.styles.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/scopedcss/projectbundle/p21-universidadv1.bundle.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.Views.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.csproj.CopyComplete
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/ref/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p21-universidadv1/obj/Debug/net5.0/p21-universidadv1.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/appsettings.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.StaticWebAssets.xml
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.deps.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.dev.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/ref/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.Views.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/p21-universidadv1.Views.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.RazorComponent.input.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.RazorComponent.output.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.TagHelpers.input.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.TagHelpers.output.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.RazorCoreGenerate.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.Manifest.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.xml
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/scopedcss/bundle/p21-universidadv1.styles.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/scopedcss/projectbundle/p21-universidadv1.bundle.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.Views.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.csproj.CopyComplete
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/ref/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/p21-universidadv1.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/Estudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/Estudiante/Estudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/Instructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/Instructor/Instructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/Cursos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/Curso/Cursos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/Departamentos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/obj/Debug/net5.0/Razor/Pages/Departamento/Departamentos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/appsettings.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.StaticWebAssets.xml
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.deps.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.dev.json
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/ref/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.Views.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.Views.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.AssemblyInfoInputs.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.AssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorComponent.input.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/Cursos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/Departamentos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/Estudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/Instructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorComponent.output.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.TagHelpers.input.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.TagHelpers.output.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorCoreGenerate.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Curso/Cursos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Departamento/Departamentos.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/Estudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/Instructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.Manifest.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.xml
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/bundle/p21-universidadv1.styles.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/projectbundle/p21-universidadv1.bundle.scp.css
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.Views.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.csproj.CopyComplete
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/ref/p21-universidadv1.dll
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.pdb
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.genruntimeconfig.cache
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EditarInstructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/EditarInstructores.razor.g.cs
+/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/appsettings.Development.json
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/appsettings.json
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.deps.json
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.json
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.dev.json
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.Views.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p23-universidadv3/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.csproj.AssemblyReference.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.AssemblyInfoInputs.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.AssemblyInfo.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorComponent.input.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorComponent.output.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.TagHelpers.input.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.TagHelpers.output.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorCoreGenerate.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.Manifest.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/bundle/p21-universidadv1.styles.css
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/scopedcss/projectbundle/p21-universidadv1.bundle.scp.css
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.csproj.CopyComplete
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/p21-universidadv1.genruntimeconfig.cache
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p23-universidadv3/obj/Debug/net5.0/Razor/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/appsettings.Development.json
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/appsettings.json
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.deps.json
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.json
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.dev.json
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.Views.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p24-universidadv4/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.csproj.AssemblyReference.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.AssemblyInfoInputs.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.AssemblyInfo.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.RazorComponent.input.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/OficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.RazorComponent.output.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.TagHelpers.input.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.TagHelpers.output.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.RazorCoreGenerate.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/OficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.Manifest.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/scopedcss/bundle/p21-universidadv1.styles.css
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/scopedcss/projectbundle/p21-universidadv1.bundle.scp.css
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.csproj.CopyComplete
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/p21-universidadv1.genruntimeconfig.cache
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/AgregarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/AsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/EliminarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/Inscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/AgregarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/EdtarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/EliminarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/AgregarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/AsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/EliminarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Inscripcion/Inscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/AgregarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/EdtarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/EliminarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/AgregarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Inscripcion/AgregarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/EditarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Inscripcion/EditarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/EliminarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p24-universidadv4/obj/Debug/net5.0/Razor/Pages/Inscripcion/EliminarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/appsettings.Development.json
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/appsettings.json
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.deps.json
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.json
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.dev.json
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.Views.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p25-universidadv5/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.csproj.AssemblyReference.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.AssemblyInfoInputs.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.AssemblyInfo.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.RazorComponent.input.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/AgregarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/AsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/EliminarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/AgregarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/EditarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/EliminarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/Inscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/AgregarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/EdtarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/EliminarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/OficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.RazorComponent.output.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/RazorDeclaration/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.TagHelpers.input.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.TagHelpers.output.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.RazorCoreGenerate.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/AgregarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/AsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/EliminarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Inscripcion/AgregarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Inscripcion/EditarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Inscripcion/EliminarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Inscripcion/Inscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/AgregarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/EdtarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/EliminarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/OficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.Manifest.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/scopedcss/bundle/p21-universidadv1.styles.css
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/scopedcss/projectbundle/p21-universidadv1.bundle.scp.css
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cache
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cs
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.csproj.CopyComplete
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p25-universidadv5/obj/Debug/net5.0/p21-universidadv1.genruntimeconfig.cache
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/appsettings.Development.json
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/appsettings.json
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.deps.json
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.json
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.runtimeconfig.dev.json
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.Views.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Humanizer.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p26-universidadv6/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.csproj.AssemblyReference.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.AssemblyInfoInputs.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.AssemblyInfo.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.csproj.CoreCompileInputs.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.MvcApplicationPartsAssemblyInfo.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.RazorComponent.input.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/AgregarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/AsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/AsignacionCurso/EliminarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/AgregarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/EditarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/EliminarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Inscripcion/Inscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/AgregarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/EdtarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/EliminarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Pages/OficinaAsignada/OficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.RazorComponent.output.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.TagHelpers.input.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.TagHelpers.output.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.RazorCoreGenerate.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/AgregarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/AsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/AsignacionCurso/EliminarAsignacionCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Curso/AgregarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Curso/Cursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Curso/EditarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Curso/EliminarCursos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Departamento/AgregarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Departamento/Departamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Departamento/EditarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Departamento/EliminarDepartamentos.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Estudiante/AgregarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Estudiante/EditarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Estudiante/EliminarEstudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Estudiante/Estudiantes.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Inscripcion/AgregarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Inscripcion/EditarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Inscripcion/EliminarInscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Inscripcion/Inscripciones.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Instructor/AgregarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Instructor/EditarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Instructor/EliminarInstructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Instructor/Instructores.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/AgregarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/EdtarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/EliminarOficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/OficinaAsignada/OficinaAsignadas.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/_Host.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.RazorAssemblyInfo.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.Manifest.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/staticwebassets/p21-universidadv1.StaticWebAssets.xml
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/scopedcss/bundle/p21-universidadv1.styles.css
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/scopedcss/projectbundle/p21-universidadv1.bundle.scp.css
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.RazorTargetAssemblyInfo.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.Views.pdb
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.csproj.CopyComplete
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/ref/p21-universidadv1.dll
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.pdb
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/p21-universidadv1.genruntimeconfig.cache
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/LoginDisplay.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/RazorDeclaration/Shared/RedirectToLogin.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/LoginDisplay.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Shared/RedirectToLogin.razor.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Shared/_LoginPartial.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/castr/Downloads/programas/p26-universidadv6/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs

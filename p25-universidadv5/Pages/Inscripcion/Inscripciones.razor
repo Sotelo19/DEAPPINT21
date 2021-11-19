@@ -1,0 +1,51 @@
+@page "/Inscripciones"
+@using p21_universidadv1.Modelo;
+@using p21_universidadv1.Servicio;
+@inject ServicioInscripciones serv
+
+<h3>Informacion de Inscripciones</h3>
+
+<NavLink class="nav-link" href="AgregarInscripciones">
+    <span class="oi oi-plus">Agregar Nuevo</span>
+</NavLink>
+
+@if(obj is null) {
+    <p>Cargando ...</p>
+} else {
+    <table class="table">
+        <thead>
+            <th>Inscripcion Id</th>
+            <th>Estudiante</th>
+            <th>Curso</th>
+            <th>Calificacion</th>
+        </thead>
+    <tbody>
+        @foreach (var i in obj)
+        {
+            <tr>
+                <td>@i.InscripcionId</td>
+                <td>@i.Estudiante.NombreCompleto</td>
+                <td>@i.Curso.Titulo</td>
+                <td>@i.Promedio</td>
+                 <td>
+                    <a class="nav-link" href="EditarInscripciones/@i.InscripcionId">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                     <a class="nav-link" href="EliminarInscripciones/@i.InscripcionId">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    </table>
+}
+
+@code {
+    List<Inscripcion> obj;
+ 
+    protected override void OnInitialized() {
+        obj = serv.ObtenerTodo();
+
+    }
+}
