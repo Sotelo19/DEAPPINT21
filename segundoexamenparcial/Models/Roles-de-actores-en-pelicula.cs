@@ -12,7 +12,7 @@ namespace segundoexamenparcial.Modelo
     
 
     public Rolesdeactoresenpelicula Rolesdeactoresenpelicula {get; set;}
-    public Actores Amaterno {get; set;}
+    public Actores Actores {get; set;}
     public Tiporol Tiporol {get; set;}
     }
 }
