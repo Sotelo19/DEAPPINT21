@@ -4,7 +4,9 @@ using System.ComponentModel.DataAnnotations;
 namespace segundoexamenparcial.Modelo
 {
     public class Rolesdeactoresenpelicula {
+        [Key]
         public int IdTitulo {get; set;}
+        [Required]
         public int IdActor {get; set;}
         public int IdTiporol {get; set;}
         public string NameC {get; set;}

@@ -5,6 +5,7 @@ using System.Collections.Generic;
 namespace segundoexamenparcial.Modelo
 {
 public class Peliculas{
+       [Key]
        public int IdTitulo {get; set;}
        public string NombreP {get; set;}
        public string HisPelicula {get; set;}
