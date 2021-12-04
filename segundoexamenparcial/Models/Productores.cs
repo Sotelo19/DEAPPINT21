@@ -10,5 +10,6 @@ namespace segundoexamenparcial.Modelo
         public string Sitioweb {get; set;}
 
         public Productores Productores {get; set;}
+        public Peliculas Peliculas{get; set;}
     }
 }

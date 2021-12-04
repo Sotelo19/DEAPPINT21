@@ -11,8 +11,8 @@ namespace segundoexamenparcial.Modelo
         public string Descripcion {get; set;}
     
 
-    public Rolesdeactoresenpelicula Rolesdeactoresenpelicula {get; set;}
+    public Pelicula Pelicula {get; set;}
     public Actores Actores {get; set;}
-    public Tiporol Tiporol {get; set;}
+    public Roles Roles {get; set;}
     }
 }

@@ -1,5 +1,6 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 namespace segundoexamenparcial.Modelo
 {
@@ -13,10 +14,9 @@ public class Peliculas{
        public int IdCertificacion {get; set;}
        public string Informacion {get; set;}
 
-public Peliculasdirigidasporproductores Peliculasdirigidasporproductores {get; set;}
-public Peliculas Peliculas {get; set;}
-public Actores Actores {get; set;}
-public Generosdepelicula Generosdepelicula {get; set;}
-public Certificadosdepeliculas Certificadosdepeliculas {get; set;}
+       public ICollection<Rolesdeactoresenpelicula> Rolesdeactoresenpeliculas {get; set;}
+       public ICollection<Peliculasdirigidasporproductores> Peliculasdirigidasporproductores {get; set;}
+       public Certificadosdepeliculas Certificadosdepeliculas {get; set;}
+       public Generosdepelicula Generosdepelicula {get; set;}
 }
 }
